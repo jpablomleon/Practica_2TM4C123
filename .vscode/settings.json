@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "PLL_INIT.h": "c",
+        "SysTick_Init.h": "c",
+        "tm4c123gh6pm.h": "c"
+    }
+}
